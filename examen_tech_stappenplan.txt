@@ -1,0 +1,103 @@
+How to instal package in Unbuntu Server on VMWARE
+'' -> betekend bijvoorbeeld niet de echte commando!
+het ip van de server vind je bij ipv address
+1. update -> 	sudo apt update
+2. install -> 	sudo apt install 'packag'
+more packages	sudo apt install 'packag1' 'package2' 'package3'
+
+
+What I did to install php|madiadb server|phpmyadmin:
+
+sudo apt update
+sudo apt install php mariadb-server phpmyadmin
+y
+select apache2 with 'spacebar'
+yes
+'password'
+
+
+How to change rights of data and add a group to data
+
+1. go to cd: 		cd /
+2. show list: 		ls -l
+3. make directory:	sudo mkdir 'name of map' | like data
+4. change rights:	sudo chmod 775 'name of map' | like data (rwx|rwx|r--)
+
+   Rights:
+4 = read	R
+2 = write	W
+1 = execute	X
+7 = all rights	RWX
+
+5. show list:		ls -l
+
+
+How to make a group and change group of map
+
+1. make group:		sudo addgroup 'name of group'
+2. content of the file:	sudo cat /etc/group
+3. change group of map:	sudo chgrp 'name of group' 'name of map' | like data
+4. show list: 		ls -l
+
+
+How to add a user and adding into a group
+
+1. add user:		sudo adduser 'name user'
+2. content of the file: sudo cat /etc/group
+3. adding user to group:sudo usermod -G 'name of group' 'name of user'
+
+tip: if user need to be added to multipul or 
+is alreay in a group and you need to add him to an other group
+
+use:			sudo usermod -G 'name of group' 'name of user' -a
+
+4. content of the file: sudo cat /etc/group
+
+FileZilla host: 192.168.56.100
+
+
+How to give groep rights for webfiles/webserver
+
+1.go to var ->		  cd /var
+2.show list ->		  ls -l
+3.change right of www ->  sudo chmod 755 'name of map' | like www
+4.change group of www ->  sudo chgrp 'name of group' 'name of map' | like www
+5.show list -> 		  ls -l
+6.go to www ->		  cd /var/www
+7.show list -> 		  ls -l
+8.change right of html -> sudo chmod 775 'name of map' | like html
+9.change group of html -> sudo chgrp 'name of group' 'name of map' | like html
+
+
+How to change directery of vsftpd.conf
+
+1.write in file ->	  sudo nano /etc/vsftpd.conf
+2.start directory ->	  local_root=/var/www/html
+3.save changes ->	  ctrl-X and ctrl-Y
+4.restart vsftpd ->	  sudo systemctl restart vsftpd
+5.disable chroot ->	  look for [#chroot_local_user=YES] and delete [#]
+6.enable right ->	  look for [#write_enable=YES] and delete [#]
+7.server right in web ->  look for [#local_umask=022]  and delete [#]
+3.save changes ->	  ctrl-X and ctrl-Y
+0.update server ->	  sudo systemctl restart vsftpd
+9.add user to group ->	  sudo usermod -G webdata sander -a
+8.if not work ->	  add: allow_writeable_chroot=YES
+
+
+upload files in filezilla in the html map
+than check if website works in browser:
+192.168.56.100/'name of start page'
+
+commando's 
+ls -> list
+nano -> openen in teksteditor
+sudo -> super user do
+ls -l -> long list
+rm -> remove
+mkdir -> make dir
+rmdir -> rmove dir
+chmod -> changemod
+sudo service fstpd restart -> vsftpd restarten
+control r -> zoekfunctie
+service vsftpd restart -> vsftpd restart
+ctrl + w -> zoeken in bestand

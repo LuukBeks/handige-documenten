@@ -1,0 +1,49 @@
+sudo apt update
+sudo apt install php mariadb-server phpmyadmin
+Systemctl status -> voor status
+
+
+nano apache2.conf
+In document ->
+Include /etc/phpmyadmin/apache.conf
+sudo service apache2 restart
+
+sudo vi /etc/apache2/apach2.conf
+deze regel toevoegen: Include /etc/phpmyadmin/apache.conf
+uit de vi editor gaan apach2 restarten
+en dan ga je naar http://192.168.56.100/phpmyadmin
+
+
+commando's 
+ls -> list
+nano -> openen in teksteditor
+sudo -> super user do
+ls -l -> long list
+rm -> remove
+mkdir -> make dir
+rmdir -> rmove dir
+chmod -> changemod
+sudo service fstpd restart -> vsftpd restarten
+control r -> zoekfunctie
+service vsftpd restart -> vsftpd restart
+ctrl + w -> zoeken in bestand
+
+Om rechten te geven
+chmod +(r)ead(w)rite(e)xecute
+voor het commando alleen de letters tussen () gebruiken.
+
+chmod 777 foldernaam -> om alle rechten aan alle users te geven
+
+Om in de html map te komen
+cd /etc -> cd /var -> cd www -> cd html.
+
+filezilla
+host: 192.168.56.100
+
+sudo chmod -r 777 www -> om alle rechten te geven voor filezilla
+
+om filezilla te laten werken:
+ga naar cd /etc
+sudo nano vsftpd.conf
+verander deze line: #write_enable=YES -> write_enable
+Dus zonder de #
