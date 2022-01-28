@@ -1,0 +1,14 @@
+Inleiding
+NewApps heeft van de eigenaar van het restaurant Excellent Taste de opdracht gekregen voor het ontwerpen van een applicatie waarmee de reserveringen automatisch verwerkt kunnen worden. Bovendien moeten de bestellingen door deze applicatie verwerkt kunnen worden. Deze applicatie zal het huidige bestelsysteem en het papieren reserveringssysteem vervangen. De app zal worden geschreven in de codeertaal PHP.
+Bedrijf
+Het restaurant Excellent Taste is een michelin ster restaurant waar al 50 jaar lunches en diners geserveerd worden. Meestal is het zo druk dat tafels gereserveerd moeten worden. Als gasten zonder te reserveren komen, is de kans groot dat zij moeten worden weggestuurd omdat alle tafels bezet zijn. Op dit moment worden de reserveringen op papier bijgehouden. De drank- en eetbestellingen worden wel geautomatiseerd verwerkt. Het restaurant is 7 dagen per week open en opent om 11:00 en sluit om 23:00. Het restaurant beschikt over 30 tafels waaraan ieder 4 stoelen staan. 
+Probleemstelling
+Het probleem binnen het bedrijf is dat de reserveringen nu worden opgeschreven door degene die op dat moment het dichste bij de telefoon staat. Dit gaat niet altijd goed, de reserveringen raken wel is kwijt, niet iedereen schrijft even duidelijk of soms schrijft iemand het wel is op een los blaadje waardoor de reservering niet door komen. Dit maak dat er soms dubbel gereserveerd wordt of een tafeltje heel de avond leeg is.
+Doelgroep(en)
+Kok, kelner, manager,  barman, serveerster.
+Vormgeving
+De opdrachtgever zou graag de huisstijl willen behouden en het nieuwe logo terug willen terugzien in de applicatie.
+Informatiebehoefte
+De applicatie moet het personeel over de volgende infromatie voorzien. Must: reserveringen inzien, wijzigen, aanmaken. Would: Bestellingen die aan de tafeltjes worden opgenomen gaan direct door naar de  desbetreffende persoon.
+Overig
+Geef hier andere relevante informatie, indien 
