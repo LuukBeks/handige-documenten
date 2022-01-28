@@ -10,4 +10,27 @@ en wat ga je bij informatiebehoeft? wtf bedoelen ze daar me
 Er staat wat voor raportages en overzichten de applicatie moet geven. Dus ik denk dat het gaat over wat de applicatie moet laten zien zoals hoeveel tafels er gereserveerd zijn hoeveel bestellingen er zijn gedaan zulke dingen. Lijkt me toch?
 
 Wat voor vragen heb jij tot nu toe opgeschreven?
-ik heb tot nu toe alleen maar extra heoveel tafels ze hebben en welke tijden ze open zijn jij?
+gesprek voorbereiding: 
+Waarom wilt u deze app gebouwd hebben, wat is het probleem met de huidige situatie?
+
+Wat is het doel van de app wat moet er op kunnen worden gedaan?
+
+Had u zelf al ideeen hoe de app eruit zou moeten koment te zien (denk aan kleuren, lettertypen etc)
+
+Kan ik ergens vinden wat er op u site moet komen te staan zoals wat voor tekst er op de homepagina moet komen etc
+
+Vanaf en tot wanneer zijn jullie open (tijden en dagen)
+
+Wie maken er gebruik van de app (doelgroep)?
+
+Vragen wat de eisen van de applicatie zijn
+
+(ook wat er als eerst af moet) MoSCoW?
+
+Hoeveel tafeltjes / stoelen heeft u?
+
+Waar kan ik het menu vinden?
+
+Moet de applicatie een grote applicatie worden of een deel voor de reserveringen en een deel
+voor de bestellingen in het restaurant of maakt dat niet uit?
+
