@@ -10,3 +10,6 @@ dus de rest zal dan maandag zijn
 
 ik zit inderdaad ook te kijken de rest hebben we volgende week pas... dus nu alleen dit even goed maken want die ontwikkelomgeving zijn gratis punten... ik heb het net getest en alles werkt al... phpmyadmin + database ik kan een file aanmaken en die bezoeken via localhost/
 Meer hebben we toch ook niet nodig?
+
+
+nee nie echt...
