@@ -1,1 +1,29 @@
 
+Probleemstelling
+Er moet een nieuwe reserverings applicatie van de tafels komen omdat ze nu alles op papier doen. Dit schiet niet op ze willen snel kunnen zien welke tafel al gereserveerd is of niet. Dit is ook handig voor mensen die net binnenkomen.
+Ook willlen ze snel een bestelling kunnen plaatsen dit word nu door hun eigen programma gedaan maar dat schiet niet op. Hier voor wilen ze een nieuw programma voor. Dit graag in de zelfde programma als de reservering.
+Moet overal op kunnen draaien als iemand de telefoon op neemt moet iedereen met zijn of haar telefoon de reservering kunnen invoeren.
+Doelgroep(en)
+
+
+de applicatie is bestemd voor het restaurant Excellent Taste. En zei willen een tafel reserverings programma hebben en een verbetering van hun bestel programma.
+Iedereen moet dit kunnen gebruiken de kok moet de reserveringen kunnen zien van het eten. De bar man moet de bestellingen kunnen zien van de drankjes. En de persoon achter de balie moet een overzicht kunnen zienvan de reserveringen. De manager wilt alles graag kunnen zien.
+ 
+Vormgeving
+Ze willen graag hun nieuwe logo terug zien in hun programma. Het programma moet snel en makkelijk ingedeeld zijn. 
+Informatiebehoefte
+De applicatie moet de volgende dingen kunnen laten zien.
+bestellingen toevoegen, inzien en wijzigen
+Reserveringen toevoegen, inzien en wijzigen
+De bestellignen die worden gemaakt moeten meteen daar de keuken of naar de bar.
+
+Overig
+Geef hier andere relevante informatie, indien nodig.
+Om dit project te realiseren heb ik de volgende hardware en software nodig.
+Zelf gebruik ik een windows laptop van het werk (school). Hier op het ik visual studio code en voor de database gebruik ik phpmyadmin
+
+
+Toelichting
+
+
+de rest mot ik nog effe aan passen daar boven enw at mot ik bij toelichtingdoen?
