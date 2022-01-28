@@ -1,4 +1,22 @@
 
+Bijlage 1.1
+Sjabloon programma van eisen
+ 
+Inhoudsopgave
+Inleiding	3
+Bedrijf	3
+Probleemstelling	3
+Doelgroep(en)	3
+Vormgeving	3
+Informatiebehoefte	3
+Overig	3
+
+ 
+Inleiding
+NewApps heeft van de eigenaar van het restaurant Excellent Taste (L. Verhoeven) de opdracht gekregen voor het ontwerpen van een applicatie waarmee de reserveringen en de bestelllingen automatisch verwerkt kunnen worden. 
+Deze applicatie zal het huidige bestelsysteem en het papieren reserveringssysteem vervangen. 
+Bedrijf
+Het restaurant Excellent Taste is een restaurant waar lunches en diners geserveerd worden al voor 50 jaar. Meestal is het zo druk dat tafels gereserveerd moeten worden. Als gasten zonder te reserveren komen, is de kans groot dat zij moeten worden weggestuurd omdat alle tafels bezet zijn. Op dit moment worden de reserveringen op papier bijgehouden. De drank- en eetbestellingen worden wel geautomatiseerd verwerkt. Het resaurant is geopent van sochends 11:00 tot savond 23:00. Excellent Taste beschikt over 30 tafels elks van 4 stoelen.
 Probleemstelling
 Er moet een nieuwe reserverings applicatie van de tafels komen omdat ze nu alles op papier doen. Dit schiet niet op ze willen snel kunnen zien welke tafel al gereserveerd is of niet. Dit is ook handig voor mensen die net binnenkomen.
 Ook willlen ze snel een bestelling kunnen plaatsen dit word nu door hun eigen programma gedaan maar dat schiet niet op. Hier voor wilen ze een nieuw programma voor. Dit graag in de zelfde programma als de reservering.
@@ -15,16 +33,11 @@ Informatiebehoefte
 De applicatie moet de volgende dingen kunnen laten zien.
 bestellingen toevoegen, inzien en wijzigen
 Reserveringen toevoegen, inzien en wijzigen
-De bestellignen die worden gemaakt moeten meteen daar de keuken of naar de bar.
-
+De bestellignen en reserveringen die worden gemaakt moeten meteen naar de juiste persoon.
 Overig
-Geef hier andere relevante informatie, indien nodig.
 Om dit project te realiseren heb ik de volgende hardware en software nodig.
 Zelf gebruik ik een windows laptop van het werk (school). Hier op het ik visual studio code en voor de database gebruik ik phpmyadmin
 
 
 Toelichting
 
-
-de rest mot ik nog effe aan passen daar boven enw at mot ik bij toelichtingdoen?
-mot nog wel meer aanpassen
