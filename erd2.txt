@@ -8,3 +8,7 @@ xxx
 
 als we gwn voor dat we het inleveren o dat we klaar zijn gwn effe nog alles samen door nemen
 vandaag moeten we sws ook nop plan van aanpak maken en funcitoneel ontwerp en zo alle documentatie
+
+Nee volgens mij alleen dit interview en het programma van eisen.... dat vertelde die net toch ook? hij wees het eerste en het laatste punt aan het eerste punt was programma van eisen en het laatste punt was dat alles goed stond op je laptop dus xampp visual studio enz..
+
+Op dat blad staat ook alleen opdracht 1: programma van eisen dus lijkt dat we alleen dan dit moeten maken weet het eigenlijk bijna zeker
