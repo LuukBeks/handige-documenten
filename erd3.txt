@@ -1,3 +1,12 @@
-Toelichting
-We hebben besproken wat de eigennaar wilt hebben (L. Verhoeven). De eigenaar had een eigen programma dat niet goed werkte hier wilt hij graag een nieuwe van hebben. Dit gaat om de bestellingen. L. Verhoeven wilt ook graag een reserverings pagina hebben voor de tafels. Dit omdat het vorrige systeem niet werkten. (op het kladblok).
-Ik heb af gesproken deze appilcatie volgende week klaar te hebben. Als er eventueel problemen zijn word dit door vermeld naar de klant.
+Probleemstelling
+Er moet een nieuwe reserverings applicatie van de tafels komen omdat ze nu alles op papier doen. Dit schiet niet op ze willen snel kunnen zien welke tafel al gereserveerd is of niet. Dit is ook handig voor mensen die net binnenkomen.
+Ook willlen ze snel een bestelling kunnen plaatsen dit word nu door hun eigen programma gedaan maar dat schiet niet op. Hier voor wilen ze een nieuw programma voor. Dit graag in de zelfde programma als de reservering.
+
+Informatiebehoefte
+De applicatie moet de volgende dingen kunnen laten zien.
+bestellingen toevoegen, inzien en wijzigen
+Reserveringen toevoegen, inzien en wijzigen
+De bestellignen en reserveringen die worden gemaakt moeten meteen naar de juiste persoon.
+
+
+wat heb jij hier?
