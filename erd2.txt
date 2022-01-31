@@ -8,7 +8,9 @@ Ik heb nooit zoals jou me ids geconnect in een database dus ik krijg die relatie
 
 je moet als je alles hebt aangemaakt ga je naar structuur endan kan je ze een unique key geven dat is dus een fornkey gebeures
 dan kan je die relaties leggen en moet je restrict kiezen als je op oke drukt
+ik heb nu die uniqes keys alleen hoe koppel ik dan die nu aan dat andere?
 
 ik heb me wireframe ook al die noem ik wel erd333
 
 zet die van jou der ook in als je klaar bent ?
+doe ik
