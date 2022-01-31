@@ -1,27 +1,6 @@
 technisch ontwerp
 erd,usecase en wireframe
 
-dus eigenlijk hebben we gwn bekant het zelfde maar dan net anders verwoord.... flikker straks gwn alles in die erd3/4 
-
-alleen nog bij die laaste project grenzen ik heb echt geen idee wat ik edaar meot zetten
-
-
-eej ik heb dit jij??
-
-Risico’s 
-Het kan natuurlijk overkomen dat je laptop er opeens mee ophoud en dat je niet meer bij je bestanden kan... Ik heb er voor gezorgd dat alles in de cloud word opgeslagen real time. Dus ik kan snel weer op een andere laptop bij de recente bestanden en weer verder gaan.
-Het kan zijn dat ik bij het programmeren tegen een fout aan loop. Dit verwacht ik niet want alles is bekent voor mij. Ik geef hier voor een halve week uitloop.
-Kan voor komen dat de klant een hele bijzondere layout wilt hebben. Hier voor kan ik soms langer bezig zijn dan bij andere. Dit kan zorgen voor een kleine uitloop.
-Hierbij heb nog maar 1 ding en dat ik eerst de dingen afwerkt die voor de klant het belangrijkst zijn
-
-Projectgrenzen
-Het vertalen van teksten.
-Het maken van logo’s
-dit heb ik ook nog niet maar ziet er goed uit
-
-Toelichting
-Ik heb alle informatie gehaald uit het intervieuw van vrijdag. Op basis van mijn kennis en wat de eisen zijn heb ik een planning gemaakt.
-Dit heb ik nog niet maar ik ga hetzelfde typen dat ik op basis van me progamma van eisen en het interview deze plan van aanpak heb gemaakt
 
 Stuur jou planning met tijden eens door
 Planning ontwerp
