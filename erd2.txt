@@ -2,7 +2,7 @@ technisch ontwerp
 erd,usecase en wireframe
 
 naviagtie ding wire frame
-
+informatie behoeft usecase
 
 Ik heb nooit zoals jou me ids geconnect in een database dus ik krijg die relaties niet tussen elkaar hoe heb jij dat dan gedaan?
 
