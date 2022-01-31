@@ -37,3 +37,4 @@ bijzonderheden
 
 en dan 
 voor elke id hiero boven een losse tabel
+Ik moet zo nog even kijken voor die database ik ga m zo maken ben wel begonnen maar heb nog niet alles
