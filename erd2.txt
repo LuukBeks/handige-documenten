@@ -24,3 +24,20 @@ Ik heb alle informatie gehaald uit het intervieuw van vrijdag. Op basis van mijn
 Dit heb ik nog niet maar ik ga hetzelfde typen dat ik op basis van me progamma van eisen en het interview deze plan van aanpak heb gemaakt
 
 Stuur jou planning met tijden eens door
+Planning ontwerp
+Taak	Begindatum	Begintijd	Einddatum	Eindtijd	Duur	Betrokkenen
+Plan van aan Aanpak schrijven	31-01-2022	12:00	04-02-2022	22:00	2:00	Programmeur
+functioneel ontwerp maken	31-01-2022	12:00	04-02-2022	22:00	2:00	Programmeur
+Layout maken	01-02-2022	09:00	04-02-2022	22:00	5:00	Programmeur
+Database aan maken	01-02-2022	09:00	04-02-2022	22:00	5:00	Programmeur
+Bestell formelier aan maken voor het eten	01-02-2022	14:00	04-02-2022	22:00	3:00	Programmeur
+Reservering formelier aan maken voor tafels	01-02-2022	14:00	04-02-2022	22:00	3:00	Programmeur
+Bestell lijst en reserverings lijst laten zien aan de klant	02-02-2022	8:00	02-02-2022	9:00	1:00	Programmeur en de eigenaar
+Bekijken van bestellingen
+wijzigen en verwijderen	02-02-2022	9:00	04-02-2022	22:00	3:00	Programmeur
+Bekijken van reserveringen
+wijzigen en verwijderen	02-02-2022	12:00	04-02-2022	22:00	3:00	Programmeur
+Overzicht van alles voor de eigenaar	02-02-2022	15:00	04-02-2022	22:00	3:00	Programmeur
+Testen	03-02-2022	9:00	04-02-2022	22:00	2:00	Programmeur en een tester
+Eventueel fouten op lossen na testen	03-02-2022	12:00	04-02-2022	22:00	3:00	Programmeur
+						
