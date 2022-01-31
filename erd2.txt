@@ -1,48 +1,6 @@
 technisch ontwerp
 erd,usecase en wireframe
 
-dus bij planning gwn alles wat je normaal ook bij je trello zou zeten
-Juist ja
+dus eigenlijk hebben we gwn bekant het zelfde maar dan net anders verwoord.... flikker straks gwn alles in die erd3/4 
 
-moet je trouwens hier ook een erd usecase of wireframe maken?? nee toch dit is voor de klant
-Nee dat moeten we hierna gaan doen
-
-Kan jij je takenlijst, benodighedenlijst en projectdoelstellingen in erd3 zetten
-oke doe jij die dan ook?
-Ik heb exact hetzelfde alleen in andere woorden.. enige wat ik nog extra heb is tailwinds bij benodigdheden
-ooh whaha beter
-
-wat heb jij allemaal bij planning??
-
-Plan van aan Aanpak schrijven
-Layout maken
-Bestell formelier aan maken voor het eten
-Reservering formelier aan maken voor tafels
-Bestell lijst en reserverings lijst laten zien aan de klant
-Bekijken van bestellingen
-wijzigen en verwijderen
-Bekijken van reserveringen
-wijzigen en verwijderen
-Overzicht van alles voor de eigenaar
-Testen
-Eventueel fouten op lossen na testen
-
-
-ik heb dit je kan gwn de eerste tabel gwn kopieren en plakken hiero in
-Planning ontwerp
-Taak	Begindatum	Begintijd	Einddatum	Eindtijd	Duur	Betrokkenen
-Plan van aan Aanpak schrijven	31-01-2022	9:00	31-01-2022	11:00	2:00	Naam of namen
-Maken planning	31/01/2022	9:30	31/01/2022	10:00	00:30	Sander Jongenelen
-Maken functioneel ontwerp	31/01/2022	12:00	31/01/2022	15:00	3:00	Sander Jongenelen
-Database aanmaken	01/02/2022					
-Coderen						
-Testraport maken	03/02/2022					
-Testen	03/02/2022					
-Opleveren project	04/02/2022		04/02/2022			Sander Jongenelen, L. verhoeven
-
-
-oohja ik moet wat meer documentie er bij zetten. en zou ipv namen programmeur en eigenaar ook kunnen denk je??
-Ja is hetzelfde
-
-wat heb je bij project grenzen?
-Nog niks
+alleen nog bij die laaste project grenzen ik heb echt geen idee wat ik edaar meot zetten
