@@ -6,3 +6,7 @@ als.. wil ik .. om te...?
 
 bij funcionalitieten moet je moscow gebeures doen
 kut die hebben we niet online gezet
+M = Must
+S = Should
+C = Could
+W = Would
