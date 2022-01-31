@@ -10,3 +10,5 @@ M = Must
 S = Should
 C = Could
 W = Would
+
+Wat zet jij bij functionaliteiten, informatiebehoefte en werkwijze? die datamodel moet een erd zijn
