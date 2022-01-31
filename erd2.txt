@@ -3,12 +3,12 @@ erd,usecase en wireframe
 
 naviagtie ding wire frame
 
-informatiebehoefte is usecase
 
-Ik maak een grote database waar alles gelijk in staat denk dat dat t handigst is
-ja ik toch ook? wacht ik upload een foto van hoe ik het nu heb ik noem die wel erd33
-ziet er goed uit
-ja?
-doe je database is exporten als je wilt en dan in erd3 zetten niet 33 maar 3
-hoe zo is toch zo overgetypt of ?
 Ik heb nooit zoals jou me ids geconnect in een database dus ik krijg die relaties niet tussen elkaar hoe heb jij dat dan gedaan?
+
+je moet als je alles hebt aangemaakt ga je naar structuur endan kan je ze een unique key geven dat is dus een fornkey gebeures
+dan kan je die relaties leggen en moet je restrict kiezen als je op oke drukt
+
+ik heb me wireframe ook al die noem ik wel erd333
+
+zet die van jou der ook in als je klaar bent ?
