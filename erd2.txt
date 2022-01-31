@@ -23,3 +23,17 @@ Home pagina	C
 
 Zelfde alleen zou contactpagina niet doen want alleen de werknemers maken gebruik van de applicatie
 jij?
+
+
+eej eej bij erd meot je meteen een goeie database maken
+ik heb bestellingen
+id
+tafel nummer
+id dranken
+id voorgerecht
+id hooftgerecht
+id na gerecht 
+bijzonderheden
+
+en dan 
+voor elke id hiero boven een losse tabel
