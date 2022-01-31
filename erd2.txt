@@ -21,4 +21,5 @@ Schema met alle overzichten	S
 Contact pagina	C
 Home pagina	C
 
+Zelfde alleen zou contactpagina niet doen want alleen de werknemers maken gebruik van de applicatie
 jij?
