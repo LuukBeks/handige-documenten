@@ -28,3 +28,5 @@ dat is altijd als je wilt dat dat niet is dan is hert null
 
 naviagtie ding is dus een usecase
 vgm mij een wireframe want ze hebben het toch ook over welke schermen en vensters er zijn dus je moet gewoon tekenen hoe je website eruit ziet
+
+Ik maak een grote database waar alles gelijk in staat denk dat dat t handigst is
