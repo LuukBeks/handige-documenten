@@ -2,34 +2,4 @@ technisch ontwerp
 erd,usecase en wireframe
 
 
-Stuur jou planning met tijden eens door
-Planning ontwerp
-Taak	Begindatum	Begintijd	Einddatum	Eindtijd	Duur	Betrokkenen
-Plan van aan Aanpak schrijven	31-01-2022	12:00	04-02-2022	22:00	2:00	Programmeur
-functioneel ontwerp maken	31-01-2022	12:00	04-02-2022	22:00	2:00	Programmeur
-Layout maken	01-02-2022	09:00	04-02-2022	22:00	5:00	Programmeur
-Database aan maken	01-02-2022	09:00	04-02-2022	22:00	5:00	Programmeur
-Bestell formelier aan maken voor het eten	01-02-2022	14:00	04-02-2022	22:00	3:00	Programmeur
-Reservering formelier aan maken voor tafels	01-02-2022	14:00	04-02-2022	22:00	3:00	Programmeur
-Bestell lijst en reserverings lijst laten zien aan de klant	02-02-2022	8:00	02-02-2022	9:00	1:00	Programmeur en de eigenaar
-Bekijken van bestellingen
-wijzigen en verwijderen	02-02-2022	9:00	04-02-2022	22:00	3:00	Programmeur
-Bekijken van reserveringen
-wijzigen en verwijderen	02-02-2022	12:00	04-02-2022	22:00	3:00	Programmeur
-Overzicht van alles voor de eigenaar	02-02-2022	15:00	04-02-2022	22:00	3:00	Programmeur
-Testen	03-02-2022	9:00	04-02-2022	22:00	2:00	Programmeur en een tester
-Eventueel fouten op lossen na testen	03-02-2022	12:00	04-02-2022	22:00	3:00	Programmeur
-						
-
-ik ben eigelijk al wel klaar jij?
-Niet helemaal ik moet die tijden van de planning nog doen die tijden zeg maar
-
-ja 
-kan jij de risico en uh project grenzen is sturen
-
-Een ander risico is dat de laptop kan crashen gedurende het project en dat al mijn gemaakte werk verloren gaat. Gelukkig is dit makkelijk te voorkomen door tjidig een back-up te maken.
-Nog een risico kan zijn dat mijn project uiteindelijk niet overeen komt met wat de opdrachtgever in gedachte had. Een oplossing hiervoor is om vroegtijdig om feedback te vragen zodat je je project hierop kan aanpassen. 
-
-Zet in een overzicht welke activiteiten er binnen het project niet worden uitgevoerd.
-Het maken van een huisstijl deze moet namelijk gelijk blijven aan de huisstijl die ze al hebben.
-Het maken van een logo
+eej ik ga hem inleveren man ik ben klaar of moet je nog iets hebben?
