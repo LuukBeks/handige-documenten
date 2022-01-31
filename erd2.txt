@@ -1,14 +1,5 @@
 technisch ontwerp
 erd,usecase en wireframe
 
-moet je bij betrokken dat wat ik net zij doen
-als.. wil ik .. om te...?
-
-bij funcionalitieten moet je moscow gebeures doen
-kut die hebben we niet online gezet
-M = Must
-S = Should
-C = Could
-W = Would
-
-Wat zet jij bij functionaliteiten, informatiebehoefte en werkwijze? die datamodel moet een erd zijn
+navigatie structuur en 
+informatie behoeft wtf mot daar
