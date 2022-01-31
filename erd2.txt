@@ -1,1 +1,2 @@
-
+technisch ontwerp
+erd,usecase en wireframe
