@@ -1,12 +1,38 @@
-Probleemstelling
-Er moet een nieuwe reserverings applicatie van de tafels komen omdat ze nu alles op papier doen. Dit schiet niet op ze willen snel kunnen zien welke tafel al gereserveerd is of niet. Dit is ook handig voor mensen die net binnenkomen.
-Ook willlen ze snel een bestelling kunnen plaatsen dit word nu door hun eigen programma gedaan maar dat schiet niet op. Hier voor wilen ze een nieuw programma voor. Dit graag in de zelfde programma als de reservering.
-
-Informatiebehoefte
-De applicatie moet de volgende dingen kunnen laten zien.
-bestellingen toevoegen, inzien en wijzigen
-Reserveringen toevoegen, inzien en wijzigen
-De bestellignen en reserveringen die worden gemaakt moeten meteen naar de juiste persoon.
+sjoerd
 
 
-wat heb jij hier?
+Doelstellingen
+We hebben een paar doelen. 
+Dat is het maken van een reserverings programma dat de beschikbaarheid kan laten zien. Dit was eerst op een kladblok en dat was niet altijd even handig.
+En heb maken van een bestellings programma. Dit omdat het vorrige programma niet goed werkte.
+Het doel is dus om een goed werkende programma te maken die snel alle bestellingen kunnen laten zien. Ook moet je snel en makkelijk een bestellen/reservering aan kunnen maken.
+
+
+
+Benodigdheden
+Om dit programma te maken zijn een aantal hulpmiddelen nodig. 
+Zo hebben wij een..
+-Laptop/computer met voldoende eisen om te programmeren (I5 7the gen 16GBram 256GB, windows, MacOS of linux)
+-Rustige werk omgeving
+-Goed bureau met goede stoel
+Software..
+- Visual Studio Code (dit voor het coderen)
+- Xamp (dit is een ontwikkel omgeving waar we de test verzie kunnen maken)
+- Goede internet verbinding om eventuele problemen op te zoeken.
+
+
+
+Takenlijst...
+- Interview voor bereiden
+- Ontwikkelomgeving gereed maken
+- Coderen
+- Database aan maken
+- Testen
+- Test rapport maken
+- Programma van eisen
+- Plan van aanpak
+- Functioneel ontwerp 
+- Planning maken
+- tussen door praten met de klant over het ontwerp
+
+
