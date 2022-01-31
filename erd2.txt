@@ -23,3 +23,7 @@ voor elke id hiero boven een losse tabel
 Ik moet zo nog even kijken voor die database ik ga m zo maken ben wel begonnen maar heb nog niet alles
 
 Hoe doe je ook alweer dat t veld ook leeg kan zijn?
+
+dat is altijd als je wilt dat dat niet is dan is hert null
+
+naviagtie ding is dus een usecase
