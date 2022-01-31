@@ -2,5 +2,9 @@ technisch ontwerp
 erd,usecase en wireframe
 
 dus bij planning gwn alles wat je normaal ook bij je trello zou zeten
+Juist ja
 
 moet je trouwens hier ook een erd usecase of wireframe maken?? nee toch dit is voor de klant
+Nee dat moeten we hierna gaan doen
+
+Kan jij je takenlijst, benodighedenlijst en projectdoelstellingen in erd3 zetten
