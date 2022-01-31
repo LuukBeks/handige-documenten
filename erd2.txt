@@ -1,25 +1,7 @@
 technisch ontwerp
 erd,usecase en wireframe
 
-navigatie structuur en
-daar moet je wireframe doen toch?
 
-informatie behoeft wtf mot daar 
-ja zo even kijken
-
-Wat heb jij bij functionaliteiten?
-hier heb ik moscow schema
-ja oke logisch ik was m ook al aan t maken awt heb jij allemaal in je moscow staan?
-
-dit
-Functionaliteit	Moscow
-Toevoegen, bekijken, verwijderen en weizigen van bestellingen	M
-Toevoegen, bekijken, verwijderen en weizigen van reserveringen	M
-Duidelijke layout	S
-Snel te bedienen zijn	M
-Schema met alle overzichten	S
-Contact pagina	C
-Home pagina	C
 
 Zelfde alleen zou contactpagina niet doen want alleen de werknemers maken gebruik van de applicatie
 jij?
@@ -37,4 +19,5 @@ bijzonderheden
 
 en dan 
 voor elke id hiero boven een losse tabel
+
 Ik moet zo nog even kijken voor die database ik ga m zo maken ben wel begonnen maar heb nog niet alles
