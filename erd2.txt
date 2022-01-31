@@ -1,34 +1,4 @@
 technisch ontwerp
 erd,usecase en wireframe
 
-bij betrokkenheid moet je toch gwn dat tabelletje maken van als.. wil ik.. om te .. 
-
-Denk ik niet ik heb gewoon een tabel gemaakt met naam, functie en contactgegevens want zo staat het ook in de opdracht
-
-wat heb jij bij projectdoelstellingen
-
-bij betrokken staat wie er allemaal betrokken zijn
-wie heb je dan als contact? alleen dan L. verhoeven of zo?
-
-Ja ik heb hem en mezelf natuurlijk, meer zijn er toch ook niet? en bij contact heb ik gewoon de email van pijnenburg want dat was de opdrachtgever bij mij
-
-projectdoelstelling heb ik dit:
-
-We hebben een paar doelen. 
-Dat is het maken van een reserverings programma dat de beschikbaarheid kan laten zien. Dit was eerst op een kladblok en dat was niet altijd even handig.
-En heb maken van een bestellings programma. Dit omdat het vorrige programma niet goed werkte.
-Het doel is dus om een goed werkende programma te maken die snel alle bestellingen kunnen laten zien. Ook moet je snel en makkelijk een bestellen/reservering aan kunnen maken
-
-
-en wat heb je bij taken lijst is dat een trello??
-Nee planning is trello takenlisjt is een lijst met taken die allemaal uitgevoerd moeten worden
-Maken programma van eisen
-Maken plan van aanpak
-Maken functioneel ontwerp
-Maken planning
-Coderen
-Test raport maken
-Testen
-Interview voorbereiden
-Database aanmaken
-
+dus bij planning gwn alles wat je normaal ook bij je trello zou zeten
