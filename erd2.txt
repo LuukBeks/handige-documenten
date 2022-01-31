@@ -11,3 +11,4 @@ ziet er goed uit
 ja?
 doe je database is exporten als je wilt en dan in erd3 zetten niet 33 maar 3
 hoe zo is toch zo overgetypt of ?
+Ik heb nooit zoals jou me ids geconnect in een database dus ik krijg die relaties niet tussen elkaar hoe heb jij dat dan gedaan?
