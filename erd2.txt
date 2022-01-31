@@ -11,5 +11,6 @@ in lucidcharts kan je gwn blokjes gebruiken endie slepen ja ben al bijna klaar e
 
 maat ik heb kleine verbetering in de erd kijk erd33
 
-eej motte mijn hele bestand hebben? zet jij die van jou ook online? hahaha
+eej motte mijn hele bestand hebben? zet jij die van jou ook online? hahaha sure
 bij de usecase heb ik nog een extra ector aan gemaakt werknemer die rond loopt
+ik moet alleen even die wireframe afmaken dan ga ik beginnen met usecase
