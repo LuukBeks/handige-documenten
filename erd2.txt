@@ -19,3 +19,14 @@ Het doel is dus om een goed werkende programma te maken die snel alle bestelling
 
 
 en wat heb je bij taken lijst is dat een trello??
+Nee planning is trello takenlisjt is een lijst met taken die allemaal uitgevoerd moeten worden
+Maken programma van eisen
+Maken plan van aanpak
+Maken functioneel ontwerp
+Maken planning
+Coderen
+Test raport maken
+Testen
+Interview voorbereiden
+Database aanmaken
+
