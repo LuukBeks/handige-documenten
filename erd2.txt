@@ -1,38 +1,51 @@
 
-die schermlayouts zijn wireframes en technisch datamodel erd? en daaronder gewoon alles van de erd beschrijven? 
-technisch datamodel is erd als je dat ook op opzoek "technisch datamodel" dan zie je ook gewoon direct erds
-
-ja hele beschrijving staat hier ook in de handige documeten kijk maar boven aan staat hij ongeveer kan ook in lucidchart 
-
-ooh ja sorry ik zat verkeerd te kijken
-dus gwn die erd screenshot die wij gister ook gebruikten emet info er bij van wat wat is?
-Ja toch? maar snap t niet helemaal waarom we dat 2x zouden moeten doen is er een verschil tussen logisch en technisch datamodel?
-niet dat ik weet...
-
-wat heb jij nu bij Functionaliteiten?
-Daar heb ik alleen de functionaliteiten staan met wat ze doen
-ja dat heb ik nu ook
-
-
-. Activity Diagram / Programma Structuur Diagram, Class Diagram
-ga jij een van deze maken bij de Functionaliteiten?
-Ik denk wel dat dat de bedoeling is ja
-ja effe kijken welke makklijkste is ja die eerste wss maar moet effee kijken hoe ik die invul
-
-
-maar bij Technisch datamodel zet je screenshot neer van je erd maar vervolgens moet je zelf die tabellen na maken bij het Datadictionary???? dus doe je dubbel? of wa
-soort van wel maar we hebben toch ook geen 2 vormen van erds gehad? altijd toch maar alleen 1 vorm van erd? weet jij dat?
-
-ja eentje
-ja dan die daar weer invullen en dan onderaan in die tabel zeg maar die erd opnieuw maken maar dan alles invullen in de vakjes. hoe ga jij die relatie naar doen zeg maar van je main ding naar de subdingen want bij de subdingen heb ik bij relatie naar getypt idtafel maar hoe moet dat andersom dan want je gaat naar een andere tabel
-
-
-ik heb van bestellingen daar staan alle ids in dus heb onder het kopje relatie bvb van iddranekn hen ik onder kopje relatie heb ik id van dranken en dan van tabel draken het id heb ik bij relatie naar iddranken in bestellingen.... als je dat bedoelt
-
-maar we moeten alleen nog maar een Activity Diagram maken en dan zijn we klaar???? uh hoezo 3,5 uur dan
-ja ik vertrouw dit niet ik weet niet of we het goed doen hoor want het lijkt me raar dat we nu al klaar kunnen zijn en alles hetzelfde is als gisteren
-
 ja ik weet dat veel op elkaar leek.... of we zijn kanker slim of uh ja geen idee weet toch zeker da we het goed doen? wat zouden we anders moeten maken dan??? dat van gister was voor de klant en dit is dan voor je (mede collega's) dat lijkt wel veel opelkaar alleen is dit meer in code taal in plaats van in jip en janneke taal als je snapt wat ik bedoel???
 
 Ja dat is het ook wel ja we hebben ook nooit anders een erd leren maken als we gister deden toch dus we kunnen daar ook niks anders invullen lijkt me
 kan je een screenshot van je datadictionary in een van die erd shit gooien
+
+ja ik heb daar precies zelfde als jou kijk maar....
+
+Datadictionary
+Maak de datadictionary op basis van het technisch datamodel.
+Gebruik per entiteit uit het technisch datamodel onderstaand schema
+
+<dranken>
+Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
+ID	int	11		Auto	Primary	Uniek	Iddranken in bestellingen
+Dranken	Varchar	50	nee	Auto			
+
+
+
+
+<voorgerecht>
+Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
+ID	int	11		Auto	Primary	Uniek	Idvoorgerecht in bestellingen
+voorgerecht	Varchar	50	nee	Auto			
+
+<hoofdgerecht>
+Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
+ID	int	11		Auto	Primary	Uniek	Idhoofdgerecht in bestellingen
+hoofdgerecht	Varchar	50	nee	Auto			
+
+<nagerecht>
+Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
+ID	int	11		Auto	Primary	Uniek	Idnagerecht in bestellingen
+nagerecht	Varchar	50	nee	Auto			
+
+<tafel>
+Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
+ID	int	11		Auto	Primary	Uniek	Idtafel in bestellingen
+tafelnummer	Varchar	50	ja	Auto			
+Date	date		Ja				
+time	time		ja				
+
+<bestellingen>
+Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
+ID	int	11		Auto	Primary	Uniek	
+Iddranken	Int	11	Ja	Auto	Fornkey	Uniek	Id van dranken
+Idvoorgerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van voorgerecht
+Idhoofdgerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van hoofdgerecht
+Idnagerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van nagerecht
+Idtafel	Int	11	Ja	Auto	Fornkey	Uniek	Id van tafel
+Bijzonderheden	Varchar	500	Nee	Auto			
