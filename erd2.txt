@@ -31,3 +31,5 @@ ik heb van bestellingen daar staan alle ids in dus heb onder het kopje relatie b
 
 maar we moeten alleen nog maar een Activity Diagram maken en dan zijn we klaar???? uh hoezo 3,5 uur dan
 ja ik vertrouw dit niet ik weet niet of we het goed doen hoor want het lijkt me raar dat we nu al klaar kunnen zijn en alles hetzelfde is als gisteren
+
+ja ik weet dat veel op elkaar leek.... of we zijn kanker slim of uh ja geen idee weet toch zeker da we het goed doen? wat zouden we anders moeten maken dan??? dat van gister was voor de klant en dit is dan voor je (mede collega's) dat lijkt wel veel opelkaar alleen is dit meer in code taal in plaats van in jip en janneke taal als je snapt wat ik bedoel???
