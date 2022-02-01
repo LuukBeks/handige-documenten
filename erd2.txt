@@ -21,3 +21,4 @@ ja effe kijken welke makklijkste is ja die eerste wss maar moet effee kijken hoe
 
 
 maar bij Technisch datamodel zet je screenshot neer van je erd maar vervolgens moet je zelf die tabellen na maken bij het Datadictionary???? dus doe je dubbel? of wa
+soort van wel maar we hebben toch ook geen 2 vormen van erds gehad? altijd toch maar alleen 1 vorm van erd? weet jij dat?
