@@ -1,13 +1,10 @@
-maat
-bij die
-Functionaliteiten moet je zoon activitetien diagram maken kijk hiero bij de documenten en dan dit in vullen 
-?Functionaliteit: <naam van de functionaliteit>
-<Beschrijf hier je technische oplossing>
 
-of?
-
-ik denk dat ook ja maar heb dat niet vaak gedaan weet jij hoe dat moet?
 die schermlayouts zijn wireframes en technisch datamodel erd? en daaronder gewoon alles van de erd beschrijven? 
 technisch datamodel is erd als je dat ook op opzoek "technisch datamodel" dan zie je ook gewoon direct erds
 
 ja hele beschrijving staat hier ook in de handige documeten kijk maar boven aan staat hij ongeveer kan ook in lucidchart 
+
+ooh ja sorry ik zat verkeerd te kijken
+dus gwn die erd screenshot die wij gister ook gebruikten emet info er bij van wat wat is?
+
+wat heb jij nu bij Functionaliteiten?
