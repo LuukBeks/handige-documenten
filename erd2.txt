@@ -1,1 +1,1 @@
-Bij relaties aanleggen update en delete toevoegen bij cascade
+Bij relaties aanleggen update en delete toevoegen bij cascade en restrict
