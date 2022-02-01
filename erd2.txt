@@ -30,3 +30,4 @@ ja dan die daar weer invullen en dan onderaan in die tabel zeg maar die erd opni
 ik heb van bestellingen daar staan alle ids in dus heb onder het kopje relatie bvb van iddranekn hen ik onder kopje relatie heb ik id van dranken en dan van tabel draken het id heb ik bij relatie naar iddranken in bestellingen.... als je dat bedoelt
 
 maar we moeten alleen nog maar een Activity Diagram maken en dan zijn we klaar???? uh hoezo 3,5 uur dan
+ja ik vertrouw dit niet ik weet niet of we het goed doen hoor want het lijkt me raar dat we nu al klaar kunnen zijn en alles hetzelfde is als gisteren
