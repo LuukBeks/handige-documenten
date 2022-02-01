@@ -49,3 +49,7 @@ Idhoofdgerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van hoofdgerecht
 Idnagerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van nagerecht
 Idtafel	Int	11	Ja	Auto	Fornkey	Uniek	Id van tafel
 Bijzonderheden	Varchar	500	Nee	Auto			
+
+
+
+als ik subtiel met jou mee kijk heb jij ook een moscow gedaan maar war heb je dat gedaan dan?
