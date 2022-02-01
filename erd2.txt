@@ -18,3 +18,6 @@ ja dat heb ik nu ook
 ga jij een van deze maken bij de Functionaliteiten?
 Ik denk wel dat dat de bedoeling is ja
 ja effe kijken welke makklijkste is ja die eerste wss maar moet effee kijken hoe ik die invul
+
+
+maar bij Technisch datamodel zet je screenshot neer van je erd maar vervolgens moet je zelf die tabellen na maken bij het Datadictionary???? dus doe je dubbel? of wa
