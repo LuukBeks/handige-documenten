@@ -25,3 +25,6 @@ soort van wel maar we hebben toch ook geen 2 vormen van erds gehad? altijd toch 
 
 ja eentje
 ja dan die daar weer invullen en dan onderaan in die tabel zeg maar die erd opnieuw maken maar dan alles invullen in de vakjes. hoe ga jij die relatie naar doen zeg maar van je main ding naar de subdingen want bij de subdingen heb ik bij relatie naar getypt idtafel maar hoe moet dat andersom dan want je gaat naar een andere tabel
+
+
+ik heb van bestellingen daar staan alle ids in dus heb onder het kopje relatie bvb van iddranekn hen ik onder kopje relatie heb ik id van dranken en dan van tabel draken het id heb ik bij relatie naar iddranken in bestellingen.... als je dat bedoelt
