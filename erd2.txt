@@ -8,7 +8,6 @@ of?
 
 ik denk dat ook ja maar heb dat niet vaak gedaan weet jij hoe dat moet?
 die schermlayouts zijn wireframes en technisch datamodel erd? en daaronder gewoon alles van de erd beschrijven? 
-ik dacht alleen wireframe?
-ze hebben het alleen over het scherm elke keer
+technisch datamodel is erd als je dat ook op opzoek "technisch datamodel" dan zie je ook gewoon direct erds
 
 ja hele beschrijving staat hier ook in de handige documeten kijk maar boven aan staat hij ongeveer kan ook in lucidchart 
