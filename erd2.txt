@@ -1,18 +1,7 @@
+maat
+bij die
+Functionaliteiten moet je zoon activitetien diagram maken kijk hiero bij de documenten en dan dit in vullen 
+?Functionaliteit: <naam van de functionaliteit>
+<Beschrijf hier je technische oplossing>
 
-zet die van jou der ook in als je klaar bent ?
-doe ik
-goeie
-
-kijk mijn usecase ik weet niet zo goed wak er meer bij kan doen die heet erd3333
-je gaat verdomme wel hard hoor ik kijk zo even heb net me db upgeload bij erd44.txt
-hoe krijg je al die dingen bij lucidcharts? was net via iets anders een wireframe gaan maken maar dat deed raar met die dingen bedoel ik wireframes tools
-
-in lucidcharts kan je gwn blokjes gebruiken endie slepen ja ben al bijna klaar eingelijk zal wel wachte ntot jij bijna klaar bent <3
-
-maat ik heb kleine verbetering in de erd kijk erd33
-
-eej motte mijn hele bestand hebben? zet jij die van jou ook online? hahaha sure
-bij de usecase heb ik nog een extra ector aan gemaakt werknemer die rond loopt
-ik moet alleen even die wireframe afmaken dan ga ik beginnen met usecase
-
-ja ik ben nu klaar heb je nog iets nodig?
+of?
