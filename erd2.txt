@@ -19,3 +19,5 @@ ja een van die 3 die daar staan activity kan ook wel wat ben jij nu nog allemaal
 je moet zoon Activity Diagram maken via lucidcharts
 als je naar handigef documetne ngaat en dan uml erd aan klikt staat bovenaan al hoe het moet
 bij lucitchards moet je dan opzoeken uml state/activity
+
+we hebben gister een fout gemaakt we moesten in plaats van wireframes https://prnt.sc/26mu5zq dit hebben....
