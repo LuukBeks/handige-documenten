@@ -7,42 +7,7 @@ en ja goeie
 
 ja class diagram is toch lastig wit effe niet hoe ik hem moet invullen
 
-wat heb jij allemaal bij functionaliteiten
-
-Functionaliteiten
-Werk het functioneel en ontwerp uit naar technische specificaties. Gebruik hierbij, indien mogelijk, schematechnieken (bijv. Activity Diagram / Programma Structuur Diagram, Class Diagram, ).
-Je dient ervoor te zorgen dat de oplossing/uitwerking haalbaar en realistisch is.
-
-
-
-Functionaliteit: <reservering/bestelling bekijken >
-<ik maak eerst een verbinding met de database. Daarna haal ik alle gegevens uit de database van de goede tabel en die laat ik zien op het display >
-
-Functionaliteit: <reservering/bestelling wijzigen en verwijderen>
-<in de tabel van het bekijken zet ik 2 knoppen achter. Verwijderen en wijzigen. Als je daar op klikt ga je naar het volgende venster waar je alle gegevens ziet staan. Die kan je vervoglens aanpassen of verwijderen. Dit word meteen door gevoerd naar de database.>
-
-Functionaliteit: <reservering invoeren>
-<als je een reservering wilt invoren kom je bij een mooi formulier waar je de naam,tafel nummer, datum en tijd kan neer zetten. Dit word meteen door gevoerd naar de database en opgeslagen. Zodat je dit meteen kan zien in het overzicht.>
-
-Functionaliteit: <bestelling invoeren>
-<als je een bestelling wilt in voren krijg je een lijstje met allemaal kleine keuzemenus. Welke tafel, voorgerecht, hoofg gerecht, na gerecht en bijzonderheden dit is een open veld waar je bvb iets ik kan zettenvan geen paprika er bij. Deze informatie word meteen doorgevoerd naar de database en word ook meteen opgeslagen. Zodat je dit meteen kan zien in het overzicht>
-
-
-
-wat heb jij daar allemaal?
-
-Functionaliteit: <Tafel reserveren >
-<Iedereen in het bedrijf moet de mogelijkheid hebben de snel en gemakkelijk voor gasten een tafeltje te reserveren.>
-
-Functionaliteit: <Reservering wijzigen of verwijderen>
-<Er moet een mogelijkheid zijn om via het systeem een tafeltje te annuleren of te wijzigen.>
-
-Functionaliteit: <Bestelling invoeren wijzigen of verwijderen>
-<Er moet een mogelijkheid zijn voor de werknemers via de app een bestelling in te voeren, te wijzigen of te verwijderen.>
-
-Functionaliteit: <Naam doorgeven tijdens het doorvoeren van de reservering>
-<Er komt een extra veld voor de werknemers om zijn /  haar naam te typen. Zo wordt doorgegeven welke werknemer welke reservatie heeft ingevoerd.>
-
-oohja das wel iets beter ik heb juist uitgelegd hoe het werkt op de website maar je moet meer de functie beschrijven denk dat dat van mij niet goed is..
 
 ouwe ik loop vast wat een kanker zooi bij die class diagaram
+zou aan activity diagram ook goed zijn?
+heb jij nog wat veranderd aan je wireframes? moeten we die nu ook niet technischer maken? 
