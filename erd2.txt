@@ -1,58 +1,8 @@
 
-ja ik weet dat veel op elkaar leek.... of we zijn kanker slim of uh ja geen idee weet toch zeker da we het goed doen? wat zouden we anders moeten maken dan??? dat van gister was voor de klant en dit is dan voor je (mede collega's) dat lijkt wel veel opelkaar alleen is dit meer in code taal in plaats van in jip en janneke taal als je snapt wat ik bedoel???
-
-Ja dat is het ook wel ja we hebben ook nooit anders een erd leren maken als we gister deden toch dus we kunnen daar ook niks anders invullen lijkt me
-kan je een screenshot van je datadictionary in een van die erd shit gooien
-
-ja ik heb daar precies zelfde als jou kijk maar....
-
-Datadictionary
-Maak de datadictionary op basis van het technisch datamodel.
-Gebruik per entiteit uit het technisch datamodel onderstaand schema
-
-<dranken>
-Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
-ID	int	11		Auto	Primary	Uniek	Iddranken in bestellingen
-Dranken	Varchar	50	nee	Auto			
-
-
-
-
-<voorgerecht>
-Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
-ID	int	11		Auto	Primary	Uniek	Idvoorgerecht in bestellingen
-voorgerecht	Varchar	50	nee	Auto			
-
-<hoofdgerecht>
-Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
-ID	int	11		Auto	Primary	Uniek	Idhoofdgerecht in bestellingen
-hoofdgerecht	Varchar	50	nee	Auto			
-
-<nagerecht>
-Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
-ID	int	11		Auto	Primary	Uniek	Idnagerecht in bestellingen
-nagerecht	Varchar	50	nee	Auto			
-
-<tafel>
-Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
-ID	int	11		Auto	Primary	Uniek	Idtafel in bestellingen
-tafelnummer	Varchar	50	ja	Auto			
-Date	date		Ja				
-time	time		ja				
-
-<bestellingen>
-Attribuut	Type	Lengte	Verplicht	Standaard waarde	Key	Index	Relatie naar
-ID	int	11		Auto	Primary	Uniek	
-Iddranken	Int	11	Ja	Auto	Fornkey	Uniek	Id van dranken
-Idvoorgerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van voorgerecht
-Idhoofdgerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van hoofdgerecht
-Idnagerecht	Int	11	Ja	Auto	Fornkey	Uniek	Id van nagerecht
-Idtafel	Int	11	Ja	Auto	Fornkey	Uniek	Id van tafel
-Bijzonderheden	Varchar	500	Nee	Auto			
-
-
-
 als ik subtiel met jou mee kijk heb jij ook een moscow gedaan maar war heb je dat gedaan dan?
 heb ik niet dat was het document van gister
 matje kijk hier https://github.com/sander-hash/handige-documenten/blob/main/UML_ERD.pdf helemaal onderaan heb je een class diagram ik maak die gwn bij Functionaliteiten
 en ja goeie
+
+
+ja class diagram is toch lastig wit effe niet hoe ik hem moet invullen
