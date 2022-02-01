@@ -45,3 +45,4 @@ Functionaliteit: <Naam doorgeven tijdens het doorvoeren van de reservering>
 
 oohja das wel iets beter ik heb juist uitgelegd hoe het werkt op de website maar je moet meer de functie beschrijven denk dat dat van mij niet goed is..
 
+ouwe ik loop vast wat een kanker zooi bij die class diagaram
