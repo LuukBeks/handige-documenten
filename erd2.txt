@@ -43,3 +43,5 @@ Functionaliteit: <Bestelling invoeren wijzigen of verwijderen>
 Functionaliteit: <Naam doorgeven tijdens het doorvoeren van de reservering>
 <Er komt een extra veld voor de werknemers om zijn /  haar naam te typen. Zo wordt doorgegeven welke werknemer welke reservatie heeft ingevoerd.>
 
+oohja das wel iets beter ik heb juist uitgelegd hoe het werkt op de website maar je moet meer de functie beschrijven denk dat dat van mij niet goed is..
+
