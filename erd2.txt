@@ -30,3 +30,16 @@ Functionaliteit: <bestelling invoeren>
 
 
 wat heb jij daar allemaal?
+
+Functionaliteit: <Tafel reserveren >
+<Iedereen in het bedrijf moet de mogelijkheid hebben de snel en gemakkelijk voor gasten een tafeltje te reserveren.>
+
+Functionaliteit: <Reservering wijzigen of verwijderen>
+<Er moet een mogelijkheid zijn om via het systeem een tafeltje te annuleren of te wijzigen.>
+
+Functionaliteit: <Bestelling invoeren wijzigen of verwijderen>
+<Er moet een mogelijkheid zijn voor de werknemers via de app een bestelling in te voeren, te wijzigen of te verwijderen.>
+
+Functionaliteit: <Naam doorgeven tijdens het doorvoeren van de reservering>
+<Er komt een extra veld voor de werknemers om zijn /  haar naam te typen. Zo wordt doorgegeven welke werknemer welke reservatie heeft ingevoerd.>
+
