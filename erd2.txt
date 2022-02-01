@@ -24,3 +24,4 @@ maar bij Technisch datamodel zet je screenshot neer van je erd maar vervolgens m
 soort van wel maar we hebben toch ook geen 2 vormen van erds gehad? altijd toch maar alleen 1 vorm van erd? weet jij dat?
 
 ja eentje
+ja dan die daar weer invullen en dan onderaan in die tabel zeg maar die erd opnieuw maken maar dan alles invullen in de vakjes. hoe ga jij die relatie naar doen zeg maar van je main ding naar de subdingen want bij de subdingen heb ik bij relatie naar getypt idtafel maar hoe moet dat andersom dan want je gaat naar een andere tabel
