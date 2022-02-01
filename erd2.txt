@@ -23,6 +23,7 @@ bij lucitchards moet je dan opzoeken uml state/activity
 we hebben gister een fout gemaakt we moesten in plaats van wireframes https://prnt.sc/26mu5zq dit hebben....
 hmmm ik weet niet zo goed de meneer zij nog wireframe....
 dat had ik niet gehoord maar hoe geef je met een wireframe de navigatiestructuur aan heb jij dat getekend dan ofzo? naja als die t zegt zou t wel goed zijn... daarbij hebben we nooit zo'n navigatie shit ding gemaakt
+ja drm
 
 maat ik kom er niet aan uit om een class diagram of een activity diagram te maken 
 
