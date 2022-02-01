@@ -8,3 +8,7 @@ ooh ja sorry ik zat verkeerd te kijken
 dus gwn die erd screenshot die wij gister ook gebruikten emet info er bij van wat wat is?
 
 wat heb jij nu bij Functionaliteiten?
+
+
+. Activity Diagram / Programma Structuur Diagram, Class Diagram
+ga jij een van deze maken bij de Functionaliteiten?
