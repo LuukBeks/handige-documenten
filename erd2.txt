@@ -53,4 +53,6 @@ Bijzonderheden	Varchar	500	Nee	Auto
 
 
 als ik subtiel met jou mee kijk heb jij ook een moscow gedaan maar war heb je dat gedaan dan?
+heb ik niet dat was het document van gister
 matje kijk hier https://github.com/sander-hash/handige-documenten/blob/main/UML_ERD.pdf helemaal onderaan heb je een class diagram ik maak die gwn bij Functionaliteiten
+en ja goeie
