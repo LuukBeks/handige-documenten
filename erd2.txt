@@ -6,3 +6,5 @@ en ja goeie
 
 
 ja class diagram is toch lastig wit effe niet hoe ik hem moet invullen
+
+wat heb jij allemaal bij functionaliteiten
