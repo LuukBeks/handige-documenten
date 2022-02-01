@@ -7,11 +7,14 @@ ja hele beschrijving staat hier ook in de handige documeten kijk maar boven aan 
 ooh ja sorry ik zat verkeerd te kijken
 dus gwn die erd screenshot die wij gister ook gebruikten emet info er bij van wat wat is?
 Ja toch? maar snap t niet helemaal waarom we dat 2x zouden moeten doen is er een verschil tussen logisch en technisch datamodel?
+niet dat ik weet...
 
 wat heb jij nu bij Functionaliteiten?
 Daar heb ik alleen de functionaliteiten staan met wat ze doen
+ja dat heb ik nu ook
 
 
 . Activity Diagram / Programma Structuur Diagram, Class Diagram
 ga jij een van deze maken bij de Functionaliteiten?
 Ik denk wel dat dat de bedoeling is ja
+ja effe kijken welke makklijkste is ja die eerste wss maar moet effee kijken hoe ik die invul
