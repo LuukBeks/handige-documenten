@@ -19,3 +19,5 @@ if(isset($_GET['id']) && $_GET['action'] === 'bekijkbestelling'){
      
 maar ik krijg ze niet op het display 
 ja heb er onder de tabel en zo maar uh help wat heb jij? hoe ziet jou code er uit om hem op te halen uit de link en hoe ziet jou tabel er uit
+
+je moet niet alle bestellingen kunnen zien maar alleen de mensen die eten hebben besteld voor de kok, die reserveringen kun je gewoon allemaal echoen
