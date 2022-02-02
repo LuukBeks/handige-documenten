@@ -1,1 +1,2 @@
-Bij relaties aanleggen update en delete toevoegen bij cascade en restrict
+sander wij moeten dan dranken verwijdere nen toevoegen en ook een overzicht voor de kok
+maar uit welke tabel moeten we dat dan doen? of moeten we zelf een tabel maken? met dranken? en dan welke drank hoeveel en tafel nummer?
