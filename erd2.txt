@@ -24,3 +24,4 @@ ja die heb ik
 en dan SELECT * FROM reservering WHERE id=$id
 
 maar waarom id=id? geef je ergens een id van je reservering mee aan de soort bestelling die het is?
+ja je flikkert die id toch gwn in de link dan haal je die id uit de url end an zeg je geef alles weer met dat id dat je uit de link hebt geghaald?
