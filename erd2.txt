@@ -22,3 +22,6 @@ flikker dit hele project op git ken ik thuis effe paar dingen nog doen ga jij da
 en lukt het bij jou allemaal?
 wat moet je allemaal nog doen?
 Ik heb bijna alles al alleen ben ik nog bezig met zodat als de kok klaar is die de bestellingen door kan geven de pagina ververst nog niet uit zichzelf... daarna moet ik alleen nog die bon en die bon uitprinten maar die jat ik dan morgen van jou hahahah
+
+
+ja ik moet ook nog alleen die bon en effe zorgen dat je geen id ziet maar namen in de tabel
