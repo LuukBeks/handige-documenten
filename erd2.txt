@@ -18,3 +18,7 @@ ik ga even zoeken voor e
 
 <a href="film1.php?id='.$row['id'].'"> dit is de code om m door te geven
 $id = $_GET['id']; om op te halen
+
+ja die heb ik
+
+en dan SELECT * FROM reservering WHERE id=$id
