@@ -32,3 +32,5 @@ maar moet je da nalle bestellignen zien of alleen de bestelling van waar je op k
 je moet gewoon een ding maken da tje gelijk naar de bestellingen gaat zo staat het ook, dus gewoon de pagina bestellingen niet de bestelling die die persoon heeft gedaan
 
 dus dat je alle bestellingen van iedereen kan zien?
+ja? het moet gewoon een overzicht zijn van alle reserveringen...
+heb jij extra tabellen aangemaakt voor die drankjes?
