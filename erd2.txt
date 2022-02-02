@@ -26,3 +26,10 @@ Ik heb bijna alles al alleen ben ik nog bezig met zodat als de kok klaar is die 
 
 ja ik moet ook nog alleen die bon en effe zorgen dat je geen id ziet maar namen in de tabel
 hoe heb jij dan gestoteerd op bestellingen bij de kok?
+dat alles van ja bovenaan staat? kanker makkelijk ik leer je een trucje
+
+als je naar phpmyadmin gaat dan naar die tabel
+kan je op links onderaan bijna zie je "console" staan... klik die open
+dan ga naar je tabel klik op klaar dan sorteert hij het van onder naar boven of andersom
+en dan meot je in je console kijken wele query tie heeft uitgevoerd
+als hetniet lukt stuur ik hem gwn door hoor!
