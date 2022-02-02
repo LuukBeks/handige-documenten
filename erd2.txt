@@ -1,35 +1,4 @@
 
-ik weet het niet zeker trouwens want hij zei net dat je dingen mocht aanmaken
-
-
-maat help is ik loop vast...
-
-ik ben nu bij het overzicht van de reserveringen heb ik een knop bestelling dus dan moet je alle bestellignen kunnen zien van die reservering 
-in tabel bestellingen heb je reserverings id
-dus ik geef het id mee in de link als je op de knop bestelling klikt ga naar de volgende pagina
-dus ik haal dat id op en zet dit neer: 
-if(isset($_GET['id']) && $_GET['action'] === 'bekijkbestelling'){
-    include '../backend/db.php';
-     $id = $_GET['id'];
-     $query = $conn->query("SELECT * FROM bestellingen WHERE Reserverings_ID=$id");
-     $row = $query->fetch();
-     $ID = $row['ID'];
-     $product = $row['Menuitem_ID'];
-     $hoeveel = $row['Aantal']; 
-     
-maar ik krijg ze niet op het display 
-ja heb er onder de tabel en zo maar uh help wat heb jij? hoe ziet jou code er uit om hem op te halen uit de link en hoe ziet jou tabel er uit
-
-je moet niet alle bestellingen kunnen zien maar alleen de mensen die eten hebben besteld voor de kok, die reserveringen kun je gewoon allemaal echoen
-
-ja weet ik dat heb ik al maar bedoel
-
-Overzichten reservering
-- zet data in je database haal die op
-- met een klik op een rij uit deze lijst ga je naar bestellingen
-die onderste 
-maar moet je da nalle bestellignen zien of alleen de bestelling van waar je op klikt
-je moet gewoon een ding maken da tje gelijk naar de bestellingen gaat zo staat het ook, dus gewoon de pagina bestellingen niet de bestelling die die persoon heeft gedaan
 
 dus dat je alle bestellingen van iedereen kan zien?
 ja? het moet gewoon een overzicht zijn van alle reserveringen...
@@ -37,3 +6,8 @@ van bestellingen bedoel je?????
 gast ik weet niet wtf je aan t doen bent maar je moet gewoon alle reserveringen die in de database tonen in een td...
 bestellingen moet je wel orderen want die moet je hebben op dat je alleen eten te zien krijgt maar dat kan je gewoon doen met where id is id alleen dan met andere variables...
 heb jij extra tabellen aangemaakt voor die drankjes? ja
+
+
+
+oke ik heb nog een ding dan ben ik klaar
+je hebt overal die id he net als bij bestellingen menuitem_id hoe krijg je daar dan bvb het eten te laten zien ipv alleen het id? ja met innerjoin toch? inde sql query?
