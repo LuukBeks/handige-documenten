@@ -33,4 +33,5 @@ je moet gewoon een ding maken da tje gelijk naar de bestellingen gaat zo staat h
 
 dus dat je alle bestellingen van iedereen kan zien?
 ja? het moet gewoon een overzicht zijn van alle reserveringen...
+van bestellingen bedoel je?????
 heb jij extra tabellen aangemaakt voor die drankjes?
