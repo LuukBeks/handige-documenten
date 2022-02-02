@@ -15,3 +15,6 @@ WAHAHAHHAHAHAH wat een man
 heb jij de code dat je het id van uit de link haalf en dan dat je zo met die link alle data op beeld scherm zet ik heb hem net niet
 
 ik ga even zoeken voor e
+
+<a href="film1.php?id='.$row['id'].'"> dit is de code om m door te geven
+$id = $_GET['id']; om op te halen
