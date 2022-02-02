@@ -21,3 +21,11 @@ maar ik krijg ze niet op het display
 ja heb er onder de tabel en zo maar uh help wat heb jij? hoe ziet jou code er uit om hem op te halen uit de link en hoe ziet jou tabel er uit
 
 je moet niet alle bestellingen kunnen zien maar alleen de mensen die eten hebben besteld voor de kok, die reserveringen kun je gewoon allemaal echoen
+
+ja weet ik dat heb ik al maar bedoel
+
+Overzichten reservering
+- zet data in je database haal die op
+- met een klik op een rij uit deze lijst ga je naar bestellingen
+die onderste 
+maar moet je da nalle bestellignen zien of alleen de bestelling van waar je op klikt
