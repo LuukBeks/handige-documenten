@@ -1,2 +1,21 @@
 
 ik weet het niet zeker trouwens want hij zei net dat je dingen mocht aanmaken
+
+
+maat help is ik loop vast...
+
+ik ben nu bij het overzicht van de reserveringen heb ik een knop bestelling dus dan moet je alle bestellignen kunnen zien van die reservering 
+in tabel bestellingen heb je reserverings id
+dus ik geef het id mee in de link als je op de knop bestelling klikt ga naar de volgende pagina
+dus ik haal dat id op en zet dit neer: 
+if(isset($_GET['id']) && $_GET['action'] === 'bekijkbestelling'){
+    include '../backend/db.php';
+     $id = $_GET['id'];
+     $query = $conn->query("SELECT * FROM bestellingen WHERE Reserverings_ID=$id");
+     $row = $query->fetch();
+     $ID = $row['ID'];
+     $product = $row['Menuitem_ID'];
+     $hoeveel = $row['Aantal']; 
+     
+maar ik krijg ze niet op het display 
+ja heb er onder de tabel en zo maar uh help wat heb jij? hoe ziet jou code er uit om hem op te halen uit de link en hoe ziet jou tabel er uit
