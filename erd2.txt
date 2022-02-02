@@ -33,3 +33,5 @@ kan je op links onderaan bijna zie je "console" staan... klik die open
 dan ga naar je tabel klik op klaar dan sorteert hij het van onder naar boven of andersom
 en dan meot je in je console kijken wele query tie heeft uitgevoerd
 als hetniet lukt stuur ik hem gwn door hoor!
+
+ik heb het al blijkbaar kan je 2 variables meegeven in een query
