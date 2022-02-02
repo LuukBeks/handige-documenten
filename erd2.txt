@@ -11,3 +11,4 @@ heb jij extra tabellen aangemaakt voor die drankjes? ja
 
 oke ik heb nog een ding dan ben ik klaar
 je hebt overal die id he net als bij bestellingen menuitem_id hoe krijg je daar dan bvb het eten te laten zien ipv alleen het id? ja met innerjoin toch? inde sql query?
+ik hoef alleen dat dan ben ik klaar
