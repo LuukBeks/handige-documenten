@@ -22,3 +22,5 @@ $id = $_GET['id']; om op te halen
 ja die heb ik
 
 en dan SELECT * FROM reservering WHERE id=$id
+
+maar waarom id=id? geef je ergens een id van je reservering mee aan de soort bestelling die het is?
