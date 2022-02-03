@@ -34,3 +34,4 @@ nee maar je meot van je bestellingen naar je bon gaan die bon maak ej dan aan du
 <input type="button" name="print" id="print" value="Print" onclick="windowPrint()"/> of het is zonder die () moet je even kijken
 
 wacht uh 
+die bon moet in pdf zijn he
