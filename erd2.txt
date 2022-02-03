@@ -9,3 +9,4 @@ ja want die bestanden zijn van virtualbox
 ja dus neem aan dat we dat toch vandaag hebben en niet die onderhoud shit     ja
 waaruit haal jij die menuitems voor je bon?     ja dat is menuitem_ID in bestelling
 Maar die totaalprijs ehb ej die bij de reserveringen gezet of bij de bestellingen
+ik heb geen prijs
