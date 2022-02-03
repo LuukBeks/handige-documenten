@@ -12,4 +12,8 @@ ik heb dit
  $id = $_GET['id'];
 $query = ("SELECT * FROM reservering WHERE ID=$id");
 
+die $_GET['id'] heb je niet nodig alleen de
+$id = $_GET['id'];
+die query is ook goed alleen nu moet je hem nog doorgeven van de andere pagina
+Op de link waarop je klikt geef je dit mee <a href= "paginanaam.php?id='.$row['id'].'"
 en dan hiero onder de tabel wrm werkt da nie hij zegt dat tie id niet snapt bij rij 11 en 12 hier
