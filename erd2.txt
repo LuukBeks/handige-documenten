@@ -16,3 +16,5 @@ heb jij al die database shit overgenomen uit die eerste 2 bestanden?
 ja
 heb je die data van je bon zo opgeschreven of uit de database gehaald?
 uit de database
+mijn bon is gwn
+2 tabellen
