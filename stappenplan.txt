@@ -56,7 +56,9 @@ Tevens kunnen we nu een static ipv4 geven.
 **sudo vi /etc/netplan/00-installer-config.yaml**  
 
 toevoegen onder de 4...
-dhcp6: true
+(opzelfde rij zetten precies)
+enp0s8:
+  dhcp6: true
 
 **sudo netplan apply**  
 en dan opnieuw op starten
