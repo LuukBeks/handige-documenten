@@ -7,3 +7,4 @@ kan je t zo zien of moet ik het doorsturen als ik t doorstuurt veranderd t wel h
 ja ik zag het wel heb redelijk het zelfde kwa hoeveel en zo
 
 wat ben je nu nog aan het doen fo?
+ja er was een bugg in me database omdat ik een id van 0 had gemaakt dus moest t allemaalw eer loskoppelen 
