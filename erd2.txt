@@ -20,3 +20,5 @@ Op de link waarop je klikt geef je dit mee <a href= "paginanaam.php?id='.$row['i
 ja dat heb ik ook die link kijk maar dit is mijn link http://localhost/restaurant/frontend/bon.php??id=2&action=bekijkbon
 http://localhost/examen/frontend/bonprint.php?id=9 zo moet je link zijn
 je hebt sws al 2? en die action hoeft ook niet 
+
+oke tnx het werkt wahah wtf dankjeeeeee zo simple pfff want hoe ik het eerst had werkte het ergens anders wel hehe godverdomme
