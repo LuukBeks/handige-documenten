@@ -4,3 +4,7 @@ bij jou zou ik bon printen bon tonen de code voor de bon hoe dit er uit ziet uhm
 
 
 ik heb menukaart eten/drinken tonen
+ik heb zelf de code net en dudielijk neer gezet
+kunne nconnecten met de database
+kunnen bekijken van het drinken
+kunnen bekijken van het eten
