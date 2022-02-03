@@ -6,5 +6,5 @@ ja kan
 ja kan.... eigenlijk geen zin..
 ik wil gewoon naar huis ben hier echt helemaal klaar mee ik hoop dat we vanmiddag die uh examens van die server gaan doen die is easy
 ja want die bestanden zijn van virtualbox 
-ja dus neem aan dat we dat toch vandaag hebben en niet die onderhoud shit
-waaruit haal jij die menuitems voor je bon?
+ja dus neem aan dat we dat toch vandaag hebben en niet die onderhoud shit     ja
+waaruit haal jij die menuitems voor je bon?     ja dat is menuitem_ID in bestelling
