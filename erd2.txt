@@ -33,3 +33,4 @@ heb jij al die code gekopieert of wa uh
 nee maar je meot van je bestellingen naar je bon gaan die bon maak ej dan aan dus gewoon een layout van een bon of wat dan ook dan moet je alle gegevens eraan matchen dus die where id is id en dan als ej op die pagina komt moet je zorgen dat de bon direct print, je moet ook je navbar enz daar weghalen dus blanco pagina met alleen je bon. Dan doe je onderaan je pagina een knop maken daar op staat print,
 <input type="button" name="print" id="print" value="Print" onclick="windowPrint()"/> of het is zonder die () moet je even kijken
 
+wacht uh 
