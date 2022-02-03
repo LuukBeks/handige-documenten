@@ -47,3 +47,16 @@ ga naar cd /etc
 sudo nano vsftpd.conf
 verander deze line: #write_enable=YES -> write_enable
 Dus zonder de #
+
+
+
+voor als je achteraf de 2 de host-only adapter toevoegt:
+  Op de volgende manier zorg je dat in ons geval de adapter enp0s8 actief wordt.  
+Tevens kunnen we nu een static ipv4 geven.  
+**sudo vi /etc/netplan/00-installer-config.yaml**  
+
+toevoegen onder de 4...
+dhcp6: true
+
+**sudo netplan apply**  
+en dan opnieuw op starten
