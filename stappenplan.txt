@@ -65,3 +65,5 @@ en dan opnieuw op starten
 
 
 standaard naam van phpmyadmmin is phpmyadmin
+
+chomd 775 -R en dan de folder
