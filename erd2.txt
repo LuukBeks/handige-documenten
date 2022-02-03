@@ -18,3 +18,5 @@ heb je die data van je bon zo opgeschreven of uit de database gehaald?
 uit de database
 mijn bon is gwn
 2 tabellen
+
+dat is meteen het overzicht
