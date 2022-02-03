@@ -62,3 +62,6 @@ enp0s8:
 
 **sudo netplan apply**  
 en dan opnieuw op starten
+
+
+standaard naam van phpmyadmmin is phpmyadmin
