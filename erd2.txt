@@ -6,3 +6,5 @@ eej laat jou bon is zien ik heb gwn die 2 tabellen whahaha maar jij laat overal 
 ja gwn de namen in plaats van id da motte met join doen in de sql query
 laat ook is jou testrapport document is zien
 Mijn testrapport heb ik gewoon alle pagina's die ik heb getest en dat opgeschreven
+
+dat windowprint is eigelijk een kanker slimme oplossing je print gwn de website zelfde als cntr+p maar eej ze willen een pdf dus zo kunnen ze hem ook krijgen
