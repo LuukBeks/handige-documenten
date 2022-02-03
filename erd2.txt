@@ -6,3 +6,10 @@ ooh netjes
 nee
 
 Wat meot je nog hebben?
+
+ik heb dit 
+ $_GET['id'];
+ $id = $_GET['id'];
+$query = ("SELECT * FROM reservering WHERE ID=$id");
+
+en dan hiero onder de tabel wrm werkt da nie hij zegt dat tie id niet snapt bij rij 11 en 12 hier
