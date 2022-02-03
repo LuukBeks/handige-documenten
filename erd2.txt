@@ -9,3 +9,4 @@ kunne nconnecten met de database
 kunnen bekijken van het drinken
 kunnen bekijken van het eten
 Ik zou er ook niet meer weten ik ga nog even bedenken voor mezelf daarna ga ik gewoon hoor tis goed
+ja je kan miss nog de connectie doen
