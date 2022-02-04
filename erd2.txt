@@ -7,3 +7,12 @@ denk niet dat dat zo werkt
 
 ja maar ik moet nu die aceptatietetst verder invullen er staat aanpassignen ja die zijn er niet uitvoering uren ja 0 want ik hoef niks aan te passen
 moet jij wel shit aan passen dan?
+
+
+Warning: Undefined array key "reservering" in C:\xampp\htdocs\excellenttaste\classes\page\bon.php on line 55
+
+Warning: Undefined variable $aOutput in C:\xampp\htdocs\excellenttaste\classes\page\bon.php on line 62
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\excellenttaste\classes\page\bon.php on line 33
+
+ik heb deze errors weet jij er een van die ik zo kan oplossen
