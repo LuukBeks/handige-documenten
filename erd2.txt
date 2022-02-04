@@ -10,9 +10,10 @@ moet jij wel shit aan passen dan?
 
 
 Warning: Undefined array key "reservering" in C:\xampp\htdocs\excellenttaste\classes\page\bon.php on line 55
-
+  deze moet je in de database moet reservering nog een relatie krijgen
 Warning: Undefined variable $aOutput in C:\xampp\htdocs\excellenttaste\classes\page\bon.php on line 62
-
+  deze variable moet ergens anders nog genoemd worden. hij vraagt hem hier op maar weeet niet waarvan voglens mij
 Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\excellenttaste\classes\page\bon.php on line 33
-
+  deze weet ik eventejs niet
 ik heb deze errors weet jij er een van die ik zo kan oplossen
+  is dat bij dit project??
