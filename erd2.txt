@@ -18,5 +18,15 @@ Warning: foreach() argument must be of type array|object, null given in C:\xampp
 ik heb deze errors weet jij er een van die ik zo kan oplossen
   is dat bij dit project??
 
-
-je moet toch alleen het onderdeel doe nwat je hebt gekregen?
+    private function getBestelling() {
+          $reservering_id = $_GET['reservering'];
+          $sql = "SELECT * 	FROM bestelling b, menuitem m 
+                                   WHERE b.reservering_id = '$reservering_id'
+                                   AND b.menuitemcode = m.menuitemcode";
+          foreach($this->connection->query($sql) as $row) {
+               $aOutput[] = $row;
+          }
+          return $aOutput;
+          
+     }
+}
