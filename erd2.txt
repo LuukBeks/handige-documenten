@@ -17,3 +17,6 @@ Warning: foreach() argument must be of type array|object, null given in C:\xampp
   deze weet ik eventejs niet
 ik heb deze errors weet jij er een van die ik zo kan oplossen
   is dat bij dit project??
+
+
+je moet toch alleen het onderdeel doe nwat je hebt gekregen?
